@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+button {
+  padding: 10px 15px;
+  margin: 10px;
+  font-size: 16px;
+  border-radius: 6px;
+  background-color: #ff9800;
+  color: rgb(250, 249, 249);
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #c493dc;
+}
+
+.info-message {
+  margin: 20px 0;
+  padding: 10px 15px;
+  background-color: #e0f7fa;
+  color: #00796b;
+  border-left: 4px solid #00796b;
+  font-size: 18px;
+  border-radius: 6px;
+}
+
